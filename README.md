@@ -5,6 +5,9 @@ such as computational efficiency, which makes it a natural candidate for adversa
 
 The adversarial examples have been created by executing this <a href="https://github.com/aldahdooh/detectors_review">code</a>. 
 
+The repository with the model checkpoints is available at <a href="https://drive.google.com/drive/folders/13LfOUq2IS4j0vhlIV-bWO5iTLGGlREDL?usp=sharing" <\a>.
+
+
 ### Current package structure
 ```
 Package
